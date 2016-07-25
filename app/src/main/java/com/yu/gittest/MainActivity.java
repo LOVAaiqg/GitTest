@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     private void firtMethod(){
 
     }
+
+    private void secondMethod(){
+
+    }
 }
