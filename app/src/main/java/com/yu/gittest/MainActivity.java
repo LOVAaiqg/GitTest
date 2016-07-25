@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void secondMethod(){
-
+        Log.w("test_yu","第二个方法");
     }
 }
