@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void firtMethod(){
+        Log.i("master","方法一");
 
     }
 
