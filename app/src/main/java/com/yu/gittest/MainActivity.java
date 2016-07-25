@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void firtMethod(){
+        Log.w("test_yu","第一个方法");
 
     }
 
