@@ -16,10 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void firtMethod(){
         Log.i("master！！","方法一");
-
     }
 
     private void secondMethod(){
-
+        Log.w("test_yu","第二个方法");
     }
 }
