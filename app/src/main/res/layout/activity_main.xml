@@ -12,5 +12,5 @@
     <Button android:id="@+id/btnTestYu"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        />
+        android:text="测试界面"/>
 </RelativeLayout>
